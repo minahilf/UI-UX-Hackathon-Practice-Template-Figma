@@ -1,5 +1,4 @@
 import Image from "next/image"
-import blur from "../../../Assets/blur.png"
 import boom from "../../../Assets/boom.png"
 
 export default function Category(){

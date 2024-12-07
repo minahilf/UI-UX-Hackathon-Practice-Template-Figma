@@ -4,8 +4,6 @@ import mg from "../../../Assets/mg.png";
 import like from "../../../Assets/like.png";
 import cart from "../../../Assets/Cart.png";
 import Link from "next/link";
-import Wishlist from "../Wishlist/page";
-import Cart from "../Cart/page";
 export default function Header() {
   return (
     <div>
