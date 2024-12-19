@@ -12,7 +12,7 @@ export default function Sale() {
         <div>
             <div className="flex items-center gap-2 mt-10">
                 <div className="bg-secondary2 h-8 w-4 ml-10"></div>
-                <p className="text-[14px] font-semibold text-secondary2">Today's</p>
+                <p className="text-[14px] font-semibold text-secondary2">Todays</p>
             </div>
 
             <div className="flex flex-col mt-4 sm:flex-row sm:items-center sm:gap-[10%]">
